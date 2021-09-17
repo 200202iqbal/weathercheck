@@ -1,0 +1,49 @@
+<style >
+html
+{
+    height:100%;
+}
+* {
+  
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    height:100%;
+    background-image: url("assets/background-image.svg");
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:left top;
+  
+}
+.container
+{
+    padding:20px 0 0 0;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+.container > .container-sm 
+{
+  width: 70%;
+}
+form > .btn {
+  margin: 10px 0 0 0;
+}
+.input-group > #button-addon2
+{
+    color: white;
+}    
+
+#resultTemp
+{
+    margin:100px 0;
+    padding-left:40px;
+    
+    background-color: rgba(255,255,255, 20%);
+    border-radius: 5%;
+
+}
+</style >
